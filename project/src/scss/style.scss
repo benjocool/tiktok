@@ -1,0 +1,20 @@
+// Global SCSS imports
+@import './vars';
+@import './reset';
+@import './global';
+@import './fonts';
+
+
+// Sections SCSS files imports
+ @import './header';
+ @import './hero';
+ 
+// @import './footer';
+
+
+// Libs 
+// @import './libs/swiper';
+
+body  {
+  overflow-x: hidden;
+}
